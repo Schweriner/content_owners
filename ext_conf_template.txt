@@ -1,0 +1,6 @@
+# cat=backend; type=boolean; label=Enable this function for tt_content by default
+autoEnableForTtcontent = 1
+# cat=backend; type=boolean; label=Non-admins can only access records to themself?
+selfAssignRestriction = 0
+# cat=backend; type=boolean; label=Assign elements automatically to the current user (only when self assign is enabled)
+autoAssignToNonAdmins = 0

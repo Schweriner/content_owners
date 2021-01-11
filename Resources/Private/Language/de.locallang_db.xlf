@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:content_owners/Resources/Private/Language/locallang_db" date="2020-12-08T13:30:06Z" product-name="content_owners">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.fieldname">
+				<source>Bearbeitung des Elements auf einen Benutzer einschränken</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
