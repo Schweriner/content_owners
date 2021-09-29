@@ -4,3 +4,5 @@ autoEnableForTtcontent = 1
 selfAssignRestriction = 0
 # cat=backend; type=boolean; label=Assign elements automatically to the current user (only when self assign is enabled)
 autoAssignToNonAdmins = 0
+# cat=backend; type=boolean; label=Hide records to users which are not assigned to a record
+hideUnassignedRows = 0

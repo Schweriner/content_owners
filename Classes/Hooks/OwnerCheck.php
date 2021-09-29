@@ -12,8 +12,6 @@ class OwnerCheck
      */
     public function check($record, $pObj) {
 
-        // \sysext\recordlist\Classes\RecordList\DatabaseRecordList.php
-
         if($record['newRecord'] === true || TYPO3_MODE !== 'BE') {
             return true;
         }
