@@ -18,6 +18,7 @@ class TcaUtility
                     'items' => [
                         ['', 0]
                     ],
+                    'default' => 0,
                     'foreign_table' => 'be_users',
                     'foreign_table_where' => 'admin=0'
                 ]
